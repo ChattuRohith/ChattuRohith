@@ -52,7 +52,7 @@
 
 ###
 
-<h2 align="left">🌐 Connect me on:</h2>
+<h2 align="left">🌐 Connect with me on:</h2>
 
 ###
 
