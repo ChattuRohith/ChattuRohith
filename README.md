@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi! I'm Rohith Chattu, a passionate Full Stack Developer eager to create innovative solutions. I'm skilled in Python, Java, React, and more. Seeking a career where I can leverage my skills to build innovative solutions that address real-world challenges. Let's connect to collaborate on exciting projects and drive technological progress together.</p>
+<p align="left">Hi! I'm Rohith Chattu, a passionate Full Stack Developer. I'm skilled in Python, Java, React, and more. Seeking a career where I can leverage my skills to build innovative solutions that address real-world challenges. Let's connect to collaborate on exciting projects and drive technological progress together.</p>
 
 ###
 
